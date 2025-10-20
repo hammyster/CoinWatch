@@ -26,7 +26,7 @@
 CoinWatch/
 ├─ index.html        # Página principal
 ├─ main.css          # Estilos globais da aplicação
-├─ style.css         # Estilos do projeto (tabela, navbar, footer)
+├─ main.js           # Estilos do projeto (tabela, navbar, footer)
 └─ README.md         # Documentação
 ```
 
