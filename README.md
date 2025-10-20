@@ -56,5 +56,5 @@ cd CoinWatch
 
 ## 📌 Contato / Links
 
-* GitHub: [hammyster/CoinWatch-API](https://github.com/hammyster/CoinWatch-API)
+* GitHub: [hammyster/CoinWatch](https://github.com/hammyster/CoinWatch)
 * Projeto desenvolvido para estudos.
