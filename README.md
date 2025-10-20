@@ -37,7 +37,7 @@ CoinWatch/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/hammyster/CoinWatch-API.git
+git clone https://github.com/hammyster/CoinWatch.git
 ```
 
 2. Entre na pasta do projeto:
