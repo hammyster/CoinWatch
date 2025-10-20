@@ -52,7 +52,6 @@ cd CoinWatch
 
 ## 🏆 Créditos
 - API de moedas: [Fixer.io](https://fixer.io/)
--
 
 ## 📌 Contato / Links
 
