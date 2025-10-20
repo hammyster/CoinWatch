@@ -43,7 +43,7 @@ git clone https://github.com/hammyster/CoinWatch-API.git
 2. Entre na pasta do projeto:
 
 ```bash
-cd CoinWatch-API
+cd CoinWatch
 ```
 
 3. Abra o arquivo `index.html` no seu navegador (duplo clique ou via Live Server no VSCode).
@@ -52,8 +52,7 @@ cd CoinWatch-API
 
 ## 🏆 Créditos
 - API de moedas: [Fixer.io](https://fixer.io/)
-- Ícones e imagens: [Placeholder.com](https://placeholder.com/)
-
+-
 
 ## 📌 Contato / Links
 
